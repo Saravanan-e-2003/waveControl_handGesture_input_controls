@@ -22,10 +22,10 @@ Using the MediaPipe library, the system detects hand gestures through the camera
     ```
 3. **Run the system**:
     ```bash
-    python change_mod.py
+    python changing_mods_template.py
     ```
 
 ## Changing Modes
-To switch between control modes, use the `change_mod.py` script. You can customize or add new modes by editing this script:
+To switch between control modes, use the `changing_mods_template.py` script. You can customize or add new modes by editing this script:
 ```bash
-python change_mod.py
+python changing_mods_template.py
