@@ -1,6 +1,6 @@
 # Hand Gesture Control System
 
-This project utilizes [MediaPipe]((https://ai.google.dev/edge/mediapipe/solutions/guide) and Python to create a highly customizable hand gesture control system. With simple hand gestures, users can control the brightness and volume of their PC. The system can be extended to include additional controls and features.
+This project utilizes [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) and Python to create a highly customizable hand gesture control system. With simple hand gestures, users can control the brightness and volume of their PC. The system can be extended to include additional controls and features.
 
 ## Features
 - **Hand Gesture Controls**: Control brightness and volume with hand gestures.
