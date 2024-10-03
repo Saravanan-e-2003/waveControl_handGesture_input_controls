@@ -5,10 +5,10 @@ This project utilizes [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions
 ## Features
 - **Hand Gesture Controls**: Control brightness and volume with hand gestures.
 - **Customizable**: Easily switch between modes or create new ones.
-- **Modular Design**: Add other controls by modifying or expanding the `change_mod.py`.
+- **Modular Design**: Add other controls by modifying or expanding the `changing_mods_template.py`.
 
 ## How It Works
-Using the MediaPipe library, the system detects hand gestures through the camera. Specific gestures are mapped to actions like adjusting the volume or brightness. The gesture recognition is processed in real-time, allowing for smooth control of your PC without the need for physical interaction.
+Using the MediaPipe library, the system detects hand gestures through the camera. Specific gestures are mapped to actions like adjusting the volume or brightness. The gesture recognition is processed in real time, allowing for smooth control of your PC without the need for physical interaction.
 
 ## Setup Instructions
 
